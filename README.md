@@ -35,7 +35,7 @@ $ src/redis-server
 
 ## 下载demo
 ```
-git clone ...
+git clone https://github.com/jervon-demo/tornado_celery_test.git
 pip install -r requirements.txt
 ```
 
